@@ -23,34 +23,61 @@ Database Management: Stores bookings using Hibernate ORM.
 **Project Structure:**
 
 📂 Movie_Ticket_Booking_System_With_JDBC
+
  ┣ 📜 pom.xml  (Maven Configuration)
  ┣ 📂 src/main/java
+ 
  ┃ ┣ 📜 hibernate.cfg.xml  (Database Configuration)
+ 
  ┃ ┣ 📂 com/Entitys
+ 
  ┃ ┃ ┣ 📜 BookingDetails.java  
  ┃ ┃ ┣ 📜 LoginCredentials.java  
+ 
  ┃ ┣ 📂 com/Helper
+ 
  ┃ ┃ ┣ 📜 FactoryProvider.java  
+ 
  ┃ ┣ 📂 com/movie/Movie_Ticket_Booking_System_With_JDBC
+ 
  ┃ ┃ ┣ 📜 App.java  (Project Entry Point)
+ 
  ┃ ┃ ┣ 📜 C.java
+ 
  ┃ ┃ ┣ 📜 confirm.java
+ 
  ┃ ┃ ┣ 📜 coupons.java
+ 
  ┃ ┃ ┣ 📜 food.java
+ 
  ┃ ┃ ┣ 📜 Location.java
+ 
  ┃ ┃ ┣ 📜 Login.java
+ 
  ┃ ┃ ┣ 📜 Moviename.java
+ 
  ┃ ┃ ┣ 📜 template.java
+ 
  ┃ ┃ ┣ 📜 Theatre.java
+ 
  ┃ ┃ ┣ 📜 Timing.java
+ 
  ┃ ┃ ┣ 📜 upi.java
+ 
  ┃ ┃ ┣ 📜 User.java
+ 
  ┣ 📂 src/test/java
+ 
  ┃ ┣ 📂 com/movie/Movie_Ticket_Booking_System_With_JDBC
+ 
  ┃ ┃ ┣ 📜 AppTest.java  (Test Class)
+ 
  ┣ 📂 target/classes (Compiled Java Classes)
+ 
  ┣ 📂 .settings  (Eclipse Project Settings)
+ 
  ┣ 📜 .classpath  (Eclipse Classpath Config)
+ 
  ┣ 📜 .project  (Eclipse Project File)
 
 

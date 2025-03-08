@@ -1,4 +1,4 @@
-**Console-Based Movie Ticket Booking System With Hibernate**
+**Movie Ticket Booking System Console Based With Hibernate**
 
 **Overview**
 
